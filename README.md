@@ -30,3 +30,8 @@ Server Initialization: The server listens on a specific port and waits for clien
 Client Connection: Each client connects to the server and provides a name.The server announces the new connection to all clients.
 Messaging: Clients send and receive messages in real-time.All messages are prefixed with the sender’s name for clarity.
 Client Exit: Clients can type exit to leave the chat.The server removes the client from the active connections list and informs other clients.
+
+#OUTPUT OF THE TASK:
+![Screenshot 2025-01-11 141341](https://github.com/user-attachments/assets/696c0b6d-d337-412a-b37b-446a7452a8bb)
+![Screenshot 2025-01-11 141826](https://github.com/user-attachments/assets/f4061131-edb1-44f9-ae4b-7cfb0f01691c)
+
